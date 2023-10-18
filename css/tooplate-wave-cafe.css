@@ -165,13 +165,23 @@ h2 { margin-top: 0; }
 .tm-list-item-2 { align-items: flex-start; }
 
 .tm-list-item-img {
+    margin-left: 40px ;
     margin-right: 20px;
     width: 160px;
     height: 160px;
     background-color: #099;
 }
 
+.tm-list-item-img1 {
+    margin-left: 40px ;
+    margin-right: 20px;
+    width: 160px;
+    height: 240px;
+    background-color: #099;
+}
+
 .tm-list-item-img-big {
+    margin-top: 50px;
     margin-right: 25px;
     width: 200px;
     height: 200px;
